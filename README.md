@@ -53,13 +53,14 @@
 />
 </a>
 
+<br>
+<br>
+<br>
 
-<!-- 기존 코드를 이렇게 수정 -->
 <p align="center">
   <a href="https://github.com/maxdevil93">
     <img src="https://img.shields.io/github/followers/maxdevil93?label=Followers&style=social" />
   </a>
-  <!-- 더 안정적인 방문자 카운터 -->
   <img src="https://komarev.com/ghpvc/?username=maxdevil93&style=flat-square&color=green" alt="Profile Views"/>
 </p>
 

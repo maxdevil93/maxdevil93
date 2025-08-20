@@ -1,4 +1,4 @@
-# Hi 👋 I'm maxdevil 😋
+# Hi 👋 I'm max-dev-il 😋
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maxdevil93&count_private=true&show_icons=true&theme=tokyonight" width="300"/>

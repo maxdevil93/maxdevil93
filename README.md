@@ -47,11 +47,13 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/{maxdevil93}"/>
-  </a>
-</p>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=maxdevil93&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/maxdevil93"
+  width="1000"
+  height="300"
+/>
+</a>
 
 
 <p align="center">

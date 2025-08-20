@@ -47,13 +47,13 @@
   </a>
 </p>
 
----
 ## 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{maxdevil93}"/>
-</a>
+<p align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/{maxdevil93}"/>
+  </a>
+</p>
 
----
 
 ## 📊 Followers & Visitor Count
 <p align="center">

@@ -1,10 +1,12 @@
-## Gang Il's GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxdevil93&count_private=true&show_icons=true&theme=tokyonight" width="300"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxdevil93&theme=tokyonight" width="300"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxdevil93&layout=compact&theme=tokyonight" width="200"/>
-</p>
-
+# Gang Il's GitHub
+<br>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=maxdevil93&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/maxdevil93"
+    width="1000"
+    height="300"
+  />
+</a>
 
 
 ## 🎨 Tech Stack
@@ -45,13 +47,7 @@
   </a>
 </p>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=maxdevil93&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/maxdevil93"
-  width="1000"
-  height="300"
-/>
-</a>
+
 
 <br>
 <br>
@@ -61,7 +57,7 @@
   <a href="https://github.com/maxdevil93">
     <img src="https://img.shields.io/github/followers/maxdevil93?label=Followers&style=social" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=maxdevil93&style=flat-square&color=green" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=maxdevil93&style=flat-square&color=green" alt="Profile Views"/>
 </p>
 
 

@@ -1,7 +1,12 @@
 # Hi 👋 I'm maxdevil 😋
 
-[![maxdevil's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxdevil93&count_private=true&show_icons=true&theme=radical)](https://github.com/maxdevil93)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maxdevil93&count_private=true&show_icons=true&theme=tokyonight" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxdevil93&layout=compact&theme=radical" width="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxdevil93&theme=radical" width="300"/>
+</p>
 
+---
 
 ## 🎨 Tech Stack
 
@@ -34,6 +39,11 @@
   </a>
 </p>
 
---- 
+---
 
-<p align="left"> <a href="https://github.com/maxdevil93"> <img src="https://img.shields.io/github/followers/maxdevil93?label=Followers&style=social" /> </a>
+## 📊 Followers
+<p align="center">
+  <a href="https://github.com/maxdevil93">
+    <img src="https://img.shields.io/github/followers/maxdevil93?label=Followers&style=social" />
+  </a>
+</p>

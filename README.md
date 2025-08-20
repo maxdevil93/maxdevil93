@@ -66,5 +66,5 @@
     <img src="https://img.shields.io/github/followers/maxdevil93?label=Followers&style=social" />
   </a>
   <br>
-  ![Visitor Count](https://profile-counter.glitch.me/maxdevil93/count.svg)
+  <img src="https://visitor-badge.glitch.me/badge?page_id=maxdevil93.readme" alt="Visitor Count"/>
 </p>

@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maxdevil93&count_private=true&show_icons=true&theme=tokyonight" width="300"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxdevil93&layout=compact&theme=tokyonight" width="200"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxdevil93&theme=tokyonight" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxdevil93&layout=compact&theme=tokyonight" width="200"/>
 </p>
 
 ---

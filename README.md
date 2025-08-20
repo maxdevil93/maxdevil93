@@ -48,16 +48,10 @@
 </p>
 
 ---
-
-## 📂 Projects / Portfolio
-<p align="center">
-  <a href="https://github.com/maxdevil93/YourProject1" target="_blank">
-    <img src="https://img.shields.io/badge/Project1-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/maxdevil93/YourProject2" target="_blank">
-    <img src="https://img.shields.io/badge/Project2-4B0082?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+## 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{maxdevil93}"/>
+</a>
 
 ---
 
@@ -67,5 +61,7 @@
     <img src="https://img.shields.io/github/followers/maxdevil93?label=Followers&style=social" />
   </a>
   <br>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=maxdevil93.readme" alt="Visitor Count"/>
+<!--   <img src="https://visitor-badge.glitch.me/badge?page_id=maxdevil93.readme" alt="Visitor Count"/> -->
 </p>
+
+

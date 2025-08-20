@@ -54,7 +54,6 @@
 </p>
 
 
-## 📊 Followers & Visitor Count
 <p align="center">
   <a href="https://github.com/maxdevil93">
     <img src="https://img.shields.io/github/followers/maxdevil93?label=Followers&style=social" />

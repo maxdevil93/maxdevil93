@@ -42,9 +42,9 @@
   <a href="https://velog.io/@lko2123/posts" target="_blank">
     <img src="https://img.shields.io/badge/My_Tech_Blog-A9BCF5?style=for-the-badge&logo=Ghost&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/gangill__" target="_blank">
+  <!-- <a href="https://www.instagram.com/gangill__" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 
